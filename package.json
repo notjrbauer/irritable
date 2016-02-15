@@ -28,5 +28,12 @@
   "devDependencies": {
     "blue-tape": "^0.2.0",
     "standard": "^6.0.5"
+  },
+  "dependencies": {
+    "assert-ok": "^1.0.0",
+    "axios": "^0.9.1",
+    "is-my-json-valid": "^2.12.4",
+    "object-assign": "^4.0.1",
+    "url-join": "0.0.1"
   }
 }
