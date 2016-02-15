@@ -1,0 +1,32 @@
+{
+  "name": "irritable",
+  "version": "1.0.0",
+  "description": "Iterable API request wrapper for client && node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && blue-tape test.js"
+  },
+  "keywords": [
+    "api",
+    "request",
+    "iterable",
+    "tracking",
+    "pineapple"
+  ],
+  "author": {
+    "name": "John Bauer",
+    "email": "notjrbauer@gmail.com"
+  },
+  "files": [
+    "index.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/notjrbauer/irritable/issues"
+  },
+  "homepage": "https://github.com/notjrbauer/irritable/issues",
+  "license": "MIT",
+  "devDependencies": {
+    "blue-tape": "^0.2.0",
+    "standard": "^6.0.5"
+  }
+}
