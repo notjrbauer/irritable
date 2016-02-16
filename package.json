@@ -17,9 +17,6 @@
     "name": "John Bauer",
     "email": "notjrbauer@gmail.com"
   },
-  "files": [
-    "index.js"
-  ],
   "bugs": {
     "url": "https://github.com/notjrbauer/irritable/issues"
   },
