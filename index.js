@@ -30,7 +30,8 @@ function irritable (opts) {
   objectAssign(axios.defaults, options)
 
   return {
-    Events: require('./events')
+    Events: require('./events'),
+    Commerce: require('./commerce')
   }
 }
 
