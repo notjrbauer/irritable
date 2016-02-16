@@ -1,2 +1,2 @@
-require('./events/test')
-require('./commerce/test')
+require('./lib/events/test')
+require('./lib/commerce/test')
