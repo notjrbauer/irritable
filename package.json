@@ -1,6 +1,6 @@
 {
   "name": "irritable",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Iterable API request wrapper for client && node.js",
   "main": "index.js",
   "scripts": {
