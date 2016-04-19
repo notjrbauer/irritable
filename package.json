@@ -30,6 +30,7 @@
     "assert-ok": "^1.0.0",
     "axios": "^0.9.1",
     "is-my-json-valid": "^2.12.4",
+    "iterable-json-schema": "^1.0.1",
     "object-assign": "^4.0.1",
     "url-join": "0.0.1"
   }
